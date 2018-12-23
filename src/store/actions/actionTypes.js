@@ -1,0 +1,9 @@
+export const ADD_ITEM = "ADD_ITEM";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const SELECT_ITEM = "SELECT_ITEM";
+export const DESELECT_ITEM = "DESELECT_ITEM";
+export const DELETE_PLACE = "DELETE_PLACE";
+export const TRY_AUTH = "TRY_AUTH";
+export const UPDATE_PLACES = "UPDATE_PLACES";
+export const LOADING = "LOADING";
+export const UNLOADING = "UNLOADING";
