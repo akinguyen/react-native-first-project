@@ -1,4 +1,4 @@
-<h1 align="center">First React Native App</h1>
+<h1 align="center">Awesome Place App</h1>
 <p align="center">
   <img width="460" height="300" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/18626914/original/452631d48fc9bc06f2eef3929d7240c8850e966d/code-android-and-ios-apps-in-react-native.png">
 </p>
